@@ -1,0 +1,7 @@
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Assets\libraries\StateMachine.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Assets\libraries\StateMachine.pdb
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\Assets\libraries\StateMachine.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\Assets\libraries\StateMachine.pdb
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\StateMachine\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\StateMachine\obj\Debug\StateMachine.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\StateMachine\obj\Debug\StateMachine.pdb

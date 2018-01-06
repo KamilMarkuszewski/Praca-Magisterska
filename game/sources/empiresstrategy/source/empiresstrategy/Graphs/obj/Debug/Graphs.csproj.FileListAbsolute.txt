@@ -1,0 +1,7 @@
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Assets\libraries\Graphs.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Assets\libraries\Graphs.pdb
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\Assets\libraries\Graphs.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\Assets\libraries\Graphs.pdb
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Graphs\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Graphs\obj\Debug\Graphs.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Graphs\obj\Debug\Graphs.pdb

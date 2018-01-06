@@ -1,0 +1,563 @@
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.NotImplementedException: The requested feature is not implemented.
+  at Gui.Presentation.Splash.Splash.mapEditorMenu () [0x00000] in <filename unknown>:0 
+  at Gui.Presentation.Splash.Splash.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.NotImplementedException: The requested feature is not implemented.
+  at Gui.Presentation.Splash.Splash.mapEditorMenu () [0x00000] in <filename unknown>:0 
+  at Gui.Presentation.Splash.Splash.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.IndexOutOfRangeException: Array index is out of range.
+  at Gui.Presentation.GamePlay.GamePlay.Draw () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.onGUI () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00006] in C:\BuildAgent\work\cac08d8a5e25d4cb\Runtime\ExportGenerated\Editor\UnityEngineObject.cs:103 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in C:\BuildAgent\work\cac08d8a5e25d4cb\Runtime\ExportGenerated\Editor\UnityEngineObject.cs:81 
+  at Map.Data.MapData.insertB (Vector2 b1, Map.Data.Interfaces.Player owner) [0x00000] in <filename unknown>:0 
+  at Map.Data.MapData.fillBuildings () [0x00000] in <filename unknown>:0 
+  at Map.Data.MapData.ReadMap (System.String[] lines) [0x00000] in <filename unknown>:0 
+  at Gui.Presentation.GamePlay.GamePlay.Start () [0x00000] in <filename unknown>:0 
+  at Gui.GuiService.Start () [0x00000] in <filename unknown>:0 
+
+
+----- ----- ----- ----- ----- ----- ----- ----- ----- -----
+
+System.ArgumentException: You can only call GUI functions from inside OnGUI.
+  at UnityEngine.GUIUtility.CheckOnGUI () [0x0000b] in C:\BuildAgent\work\cac08d8a5e25d4cb\Runtime\ExportGenerated\Editor\GUIUtility.cs:219 
+  at UnityEngine.GUI.get_skin () [0x00000] in C:\BuildAgent\work\cac08d8a5e25d4cb\Runtime\ExportGenerated\Editor\GUI.cs:51 
+  at UnityEngine.GUI.Window (Int32 id, Rect clientRect, UnityEngine.WindowFunction func, System.String text) [0x00000] in C:\BuildAgent\work\cac08d8a5e25d4cb\Runtime\ExportGenerated\Editor\GUI.cs:1264 
+  at Core.Main.ExceptionHandler.drawErrorWindow () [0x00000] in <filename unknown>:0 
+  at CoreScript.Start () [0x00073] in D:\workspace\Praca magisterska\game\sources\empiresstrategy\Assets\scripts\coreScripts\CoreScript.cs:53 
+

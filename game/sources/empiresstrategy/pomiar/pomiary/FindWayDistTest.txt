@@ -1,0 +1,30 @@
+PKTY (0, 0) (1, 1)  odleglosc: 2
+Djikstra lista 
+575
+A*
+1
+PKTY (0, 0) (51, 51)  odleglosc: 102
+Djikstra lista 
+28774
+A*
+11
+PKTY (0, 0) (101, 101)  odleglosc: 202
+Djikstra lista 
+69313
+A*
+35
+PKTY (0, 0) (151, 151)  odleglosc: 302
+Djikstra lista 
+77793
+A*
+86
+PKTY (0, 0) (201, 201)  odleglosc: 402
+Djikstra lista 
+77392
+A*
+145
+PKTY (0, 0) (251, 251)  odleglosc: 502
+Djikstra lista 
+77377
+A*
+241

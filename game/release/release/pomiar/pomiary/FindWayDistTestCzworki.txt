@@ -1,0 +1,60 @@
+PKTY (0, 0) (1, 1)  odleglosc: 2
+A* Auth 
+4
+A*
+2
+PKTY (0, 0) (51, 51)  odleglosc: 102
+A* Auth 
+105
+A*
+197
+PKTY (0, 0) (101, 101)  odleglosc: 202
+A* Auth 
+2029
+A*
+10100
+PKTY (0, 0) (151, 151)  odleglosc: 302
+A* Auth 
+6833
+A*
+12885
+PKTY (0, 0) (201, 201)  odleglosc: 402
+A* Auth 
+6716
+A*
+14083
+PKTY (0, 0) (251, 251)  odleglosc: 502
+A* Auth 
+6506
+A*
+16540
+PKTY (0, 0) (1, 1)  odleglosc: 2
+A* Auth 
+1
+A*
+0
+PKTY (0, 0) (51, 51)  odleglosc: 102
+A* Auth 
+36
+A*
+626
+PKTY (0, 0) (101, 101)  odleglosc: 202
+A* Auth 
+558
+A*
+6014
+PKTY (0, 0) (151, 151)  odleglosc: 302
+A* Auth 
+2223
+A*
+9343
+PKTY (0, 0) (201, 201)  odleglosc: 402
+A* Auth 
+4624
+A*
+8993
+PKTY (0, 0) (251, 251)  odleglosc: 502
+A* Auth 
+4621
+A*
+10505

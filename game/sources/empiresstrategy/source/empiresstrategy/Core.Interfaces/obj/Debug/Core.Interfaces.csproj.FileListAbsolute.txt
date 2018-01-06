@@ -1,0 +1,7 @@
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Core.Interfaces\bin\Debug\Core.Interfaces.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Core.Interfaces\bin\Debug\Core.Interfaces.pdb
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\Assets\libraries\Core.Interfaces.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\Assets\libraries\Core.Interfaces.pdb
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Core.Interfaces\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Core.Interfaces\obj\Debug\Core.Interfaces.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Core.Interfaces\obj\Debug\Core.Interfaces.pdb

@@ -1,0 +1,160 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StateMachine", "StateMachine", "{58A5CE88-C8B8-4037-8624-912A3B1A0C59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graphs", "Graphs", "{BB624577-76BE-4BFC-A8FB-39098FDFAED1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Map", "Map", "{458A4D7E-E844-425E-BA6E-07A07FFA6D27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{A87BD7D6-25D5-4C56-AEC5-5640B8525589}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gui", "Gui", "{EA3D1FF7-78BA-4091-867A-F285768F8C31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{B66BE437-9ED9-498D-AB72-EAE6CA7F7C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "Graphs\Graphs.csproj", "{CBB4868A-3496-4425-A810-67C7225DC191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs.Presentation", "Graphs.Presentation\Graphs.Presentation.csproj", "{13C0465C-5F68-404D-8EDE-6439A4254741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gui", "Gui\Gui.csproj", "{B207C34C-B58A-4E67-BC74-D91F4584850F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gui.Presentation", "Gui.Presentation\Gui.Presentation.csproj", "{12CADF4F-DAC3-4C8B-A1F4-8BA00B9A322B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map", "Map\Map.csproj", "{9F7C8AE3-412D-474E-8B56-04E0CD59FC71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateMachine", "StateMachine\StateMachine.csproj", "{8BDCDC7D-7818-4615-9650-F970518CBA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map.Data", "Map.Data\Map.Data.csproj", "{B8EB6D04-0C97-41F7-8FC6-B14E3394ADFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Interfaces", "Core.Interfaces\Core.Interfaces.csproj", "{16B76B51-FDBC-42C0-81DC-58E2775CFF24}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 13
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://kajt-pc:8080/tfs/empires
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Core\\Core.csproj
+		SccProjectTopLevelParentUniqueName1 = source.sln
+		SccProjectName1 = Core
+		SccLocalPath1 = Core
+		SccProjectUniqueName2 = Core.Presentation\\Core.Presentation.csproj
+		SccProjectTopLevelParentUniqueName2 = source.sln
+		SccProjectName2 = Core.Presentation
+		SccLocalPath2 = Core.Presentation
+		SccProjectUniqueName3 = Graphs\\Graphs.csproj
+		SccProjectTopLevelParentUniqueName3 = source.sln
+		SccProjectName3 = Graphs
+		SccLocalPath3 = Graphs
+		SccProjectUniqueName4 = Graphs.Presentation\\Graphs.Presentation.csproj
+		SccProjectTopLevelParentUniqueName4 = source.sln
+		SccProjectName4 = Graphs.Presentation
+		SccLocalPath4 = Graphs.Presentation
+		SccProjectUniqueName5 = Gui\\Gui.csproj
+		SccProjectTopLevelParentUniqueName5 = source.sln
+		SccProjectName5 = Gui
+		SccLocalPath5 = Gui
+		SccProjectUniqueName6 = Gui.Presentation\\Gui.Presentation.csproj
+		SccProjectTopLevelParentUniqueName6 = source.sln
+		SccProjectName6 = Gui.Presentation
+		SccLocalPath6 = Gui.Presentation
+		SccProjectUniqueName7 = Map\\Map.csproj
+		SccProjectTopLevelParentUniqueName7 = source.sln
+		SccProjectName7 = Map
+		SccLocalPath7 = Map
+		SccProjectUniqueName8 = Map.Presentation\\Map.Presentation.csproj
+		SccProjectTopLevelParentUniqueName8 = source.sln
+		SccProjectName8 = Map.Presentation
+		SccLocalPath8 = Map.Presentation
+		SccProjectUniqueName9 = StateMachine\\StateMachine.csproj
+		SccProjectTopLevelParentUniqueName9 = source.sln
+		SccProjectName9 = StateMachine
+		SccLocalPath9 = StateMachine
+		SccProjectUniqueName10 = StateMachine.Presentation\\StateMachine.Presentation.csproj
+		SccProjectTopLevelParentUniqueName10 = source.sln
+		SccProjectName10 = StateMachine.Presentation
+		SccLocalPath10 = StateMachine.Presentation
+		SccProjectUniqueName11 = Map.Data\\Map.Data.csproj
+		SccProjectTopLevelParentUniqueName11 = source.sln
+		SccProjectName11 = Map.Data
+		SccLocalPath11 = Map.Data
+		SccProjectUniqueName12 = Core.Interfaces\\Core.Interfaces.csproj
+		SccProjectTopLevelParentUniqueName12 = source.sln
+		SccProjectName12 = Core.Interfaces
+		SccLocalPath12 = Core.Interfaces
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66BE437-9ED9-498D-AB72-EAE6CA7F7C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66BE437-9ED9-498D-AB72-EAE6CA7F7C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66BE437-9ED9-498D-AB72-EAE6CA7F7C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66BE437-9ED9-498D-AB72-EAE6CA7F7C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB4868A-3496-4425-A810-67C7225DC191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB4868A-3496-4425-A810-67C7225DC191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB4868A-3496-4425-A810-67C7225DC191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB4868A-3496-4425-A810-67C7225DC191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C0465C-5F68-404D-8EDE-6439A4254741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C0465C-5F68-404D-8EDE-6439A4254741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C0465C-5F68-404D-8EDE-6439A4254741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C0465C-5F68-404D-8EDE-6439A4254741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B207C34C-B58A-4E67-BC74-D91F4584850F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B207C34C-B58A-4E67-BC74-D91F4584850F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B207C34C-B58A-4E67-BC74-D91F4584850F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B207C34C-B58A-4E67-BC74-D91F4584850F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CADF4F-DAC3-4C8B-A1F4-8BA00B9A322B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CADF4F-DAC3-4C8B-A1F4-8BA00B9A322B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CADF4F-DAC3-4C8B-A1F4-8BA00B9A322B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CADF4F-DAC3-4C8B-A1F4-8BA00B9A322B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7C8AE3-412D-474E-8B56-04E0CD59FC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7C8AE3-412D-474E-8B56-04E0CD59FC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7C8AE3-412D-474E-8B56-04E0CD59FC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7C8AE3-412D-474E-8B56-04E0CD59FC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BDCDC7D-7818-4615-9650-F970518CBA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDCDC7D-7818-4615-9650-F970518CBA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDCDC7D-7818-4615-9650-F970518CBA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDCDC7D-7818-4615-9650-F970518CBA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EB6D04-0C97-41F7-8FC6-B14E3394ADFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EB6D04-0C97-41F7-8FC6-B14E3394ADFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EB6D04-0C97-41F7-8FC6-B14E3394ADFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EB6D04-0C97-41F7-8FC6-B14E3394ADFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B76B51-FDBC-42C0-81DC-58E2775CFF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B76B51-FDBC-42C0-81DC-58E2775CFF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B76B51-FDBC-42C0-81DC-58E2775CFF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B76B51-FDBC-42C0-81DC-58E2775CFF24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8BDCDC7D-7818-4615-9650-F970518CBA0D} = {58A5CE88-C8B8-4037-8624-912A3B1A0C59}
+		{CBB4868A-3496-4425-A810-67C7225DC191} = {BB624577-76BE-4BFC-A8FB-39098FDFAED1}
+		{13C0465C-5F68-404D-8EDE-6439A4254741} = {BB624577-76BE-4BFC-A8FB-39098FDFAED1}
+		{9F7C8AE3-412D-474E-8B56-04E0CD59FC71} = {458A4D7E-E844-425E-BA6E-07A07FFA6D27}
+		{B8EB6D04-0C97-41F7-8FC6-B14E3394ADFA} = {458A4D7E-E844-425E-BA6E-07A07FFA6D27}
+		{B66BE437-9ED9-498D-AB72-EAE6CA7F7C4A} = {A87BD7D6-25D5-4C56-AEC5-5640B8525589}
+		{16B76B51-FDBC-42C0-81DC-58E2775CFF24} = {A87BD7D6-25D5-4C56-AEC5-5640B8525589}
+		{B207C34C-B58A-4E67-BC74-D91F4584850F} = {EA3D1FF7-78BA-4091-867A-F285768F8C31}
+		{12CADF4F-DAC3-4C8B-A1F4-8BA00B9A322B} = {EA3D1FF7-78BA-4091-867A-F285768F8C31}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal

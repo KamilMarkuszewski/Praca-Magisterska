@@ -1,0 +1,11 @@
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Assets\libraries\Gui.Presentation.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Assets\libraries\Gui.Presentation.pdb
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\Assets\libraries\Gui.Presentation.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\Assets\libraries\Gui.Presentation.pdb
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Gui.Presentation\obj\Debug\ResolveAssemblyReference.cache
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Gui.Presentation\obj\Debug\Gui.Presentation.Resources.GamePlay.resources
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Gui.Presentation\obj\Debug\Gui.Presentation.Resources.Splash.resources
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Gui.Presentation\obj\Debug\ResGen.read.1.tlog
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Gui.Presentation\obj\Debug\ResGen.write.1.tlog
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Gui.Presentation\obj\Debug\Gui.Presentation.dll
+D:\workspace\Praca magisterska\game\sources\empiresstrategy\source\empiresstrategy\Gui.Presentation\obj\Debug\Gui.Presentation.pdb
